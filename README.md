@@ -48,7 +48,7 @@ This shader shrinks the map into a grid, averages the colors, and renders ASCII,
 ##  Install
 
 1. Install [Tampermonkey](https://www.tampermonkey.net/) for your browser.
-2. Install the script from this repo: **[[(https://github.com/WlSDXM/earth/releases/tag/v2.8.9)]**
+2. Install the script from this repo: **(https://github.com/WlSDXM/earth/releases/tag/v2.8.9)**
 3. Open [ZigZag FM](https://www.zig-zag.fm/) and set sail.
 
 ##  License
