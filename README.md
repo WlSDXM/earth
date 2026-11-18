@@ -35,7 +35,9 @@
 
 ## 🧠 How it works
 
-*(Add a sentence or two here about how the script works — e.g., whether it hooks into the site's canvas, overlays a layer on top, or manipulates the DOM.)*
+Instead of heavy CPU processing, earth intercepts the WebGL canvas that ZigZag FM uses to draw the map. It captures the map frames and passes them through a custom GPU shader pipeline.
+
+This shader shrinks the map into a grid, averages the colors, and renders ASCII, Dither, or Kana characters using a pre-rendered font atlas. Because the effects are calculated on your graphics card, the script can layer complex ocean waves, audio-reactive pulses, and sonar sweeps on top of the map without slowing down your browser. Audio data is captured securely via an injected script inside the YouTube player.
 
 ## 🖥️ Compatibility
 
