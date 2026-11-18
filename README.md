@@ -4,14 +4,11 @@
 
 ## Demo
 
-*(Screenshots and GIFs coming soon!)*
-
+https://imgur.com/a/xyv06l0
 <img width="1270" height="614" alt="Screenshot 2026-11-13 021737" src="https://github.com/user-attachments/assets/c7c0ddcf-8a07-4deb-ad51-232c3054c8e9" />
 <img width="2557" height="1240" alt="sssalt" src="https://github.com/user-attachments/assets/356e5a57-e7fd-4a13-86e9-2f976bd42d07" />
 <img width="1675" height="955" alt="Screenshot 2026-11-13 220858" src="https://github.com/user-attachments/assets/cd826dbe-8360-4e3a-9af5-1ce72e72fe2e" />
 
-
-<!-- ![Ocean effects](link-to-your-gif.gif) -->
 
 ##  Features
 
