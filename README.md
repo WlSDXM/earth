@@ -2,7 +2,7 @@
 
 > A living ocean for [ZigZag FM](https://www.zig-zag.fm/): Kana/ASCII/dither visuals, sonar, fishing, sea life, and more. Userscript for Tampermonkey.
 
-## Demo
+## Screenshots
 
 <img width="1270" height="614" alt="Screenshot 2026-11-13 021737" src="https://github.com/user-attachments/assets/c7c0ddcf-8a07-4deb-ad51-232c3054c8e9" />
 <img width="2557" height="1240" alt="sssalt" src="https://github.com/user-attachments/assets/356e5a57-e7fd-4a13-86e9-2f976bd42d07" />
