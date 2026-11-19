@@ -9,8 +9,7 @@
 <img width="1675" height="955" alt="Screenshot 2026-11-13 220858" src="https://github.com/user-attachments/assets/cd826dbe-8360-4e3a-9af5-1ce72e72fe2e" />
 <img width="1916" height="912" alt="Screenshot 2026-11-19 123439" src="https://github.com/user-attachments/assets/4e76bd1e-0306-4eb9-a7e8-29478558ae94" />
 <img width="1915" height="911" alt="Screenshot 2026-11-19 124507" src="https://github.com/user-attachments/assets/f91e4cd6-b268-4751-9a99-0106cd978b6e" />
-
-
+<img width="967" height="725" alt="Screenshot_2026-11-19_at_10 01 10" src="https://github.com/user-attachments/assets/26cd820e-acd9-4d8f-9c79-a39bc267e7a3" />
 
 ##  Features
 
@@ -57,3 +56,7 @@ This shader shrinks the map into a grid, averages the colors, and renders ASCII,
 ##  License
 
 MIT. See [LICENSE](LICENSE) for details.
+
+##  Special Thanks
+
+SVDOG, SALT, & KEIIZ for testing/providing screenshot's <333
